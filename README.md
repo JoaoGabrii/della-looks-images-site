@@ -1,0 +1,1 @@
+Respositório destinado ao armazenamento de todas a imagens do site della-looks
